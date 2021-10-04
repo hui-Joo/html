@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+<h1 align="center">표의 병합 기능</h1>
+
+<table border="1" align="center" height="300" width="500">
+	<captoin><b>align="center";표의 병합 기능</b></captoin>
+	
+</table>
+</body>
+</html>
